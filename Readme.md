@@ -1,2 +1,2 @@
 
-![new image](./images/Branching.jpg)
+![new image](./images/git-icon.png)
